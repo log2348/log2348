@@ -1,4 +1,6 @@
-### 박지현 Jihyeon Park 👋
+### 박지현 Jihyeon Park
+
+👩
 
 <!--
 **log2348/log2348** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
