@@ -24,6 +24,10 @@
 
 
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=baababaak)](https://solved.ac/baababaak/)
+
+
+
 
 <!--
 **log2348/log2348** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
