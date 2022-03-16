@@ -2,6 +2,10 @@
 
 👩
 
+skills😎
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
 <!--
 **log2348/log2348** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
