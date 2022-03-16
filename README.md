@@ -1,6 +1,6 @@
 ### 박지현 Jihyeon Park
 
-👩
+
 
 #### 🔨 Skills
 
