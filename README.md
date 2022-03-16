@@ -1,5 +1,4 @@
 ## 지현 Jihyeon Park
-<br/><br/>
 #### 🌱 Introduce Myself
 -
 -
