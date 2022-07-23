@@ -1,10 +1,10 @@
 ## 지현 Jihyeon Park
 #### 🌱 Introduce Myself
--
+- 백엔드 신입 개발자 박지현입니다.
 -
 -
 <br/><br/>
-#### 📚 Tech Stack
+#### 🔨 Tech Stack
 
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
@@ -14,8 +14,13 @@
 
 
 <br/><br/>
-#### 🎯 Stats
+
+#### 📚 Project
+
+
 <br/><br/>
+#### 🎯 Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=log2348&layout=compact)](https://github.com/log2348/github-readme-stats)
 <br/><br/>
 
 
