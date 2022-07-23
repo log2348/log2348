@@ -1,7 +1,7 @@
 ## 지현 Jihyeon Park
 #### 🌱 Introduce Myself
 - 백엔드 신입 개발자 박지현입니다.
--
+- 
 -
 <br/><br/>
 #### 🔨 Tech Stack
@@ -23,10 +23,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=log2348&layout=compact)](https://github.com/log2348/github-readme-stats)
 <br/><br/>
 
-
 #### 📫 Contact & Channel
 - Email
 - Blog 
+<br/><br/>
 
 <!--
 **log2348/log2348** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
