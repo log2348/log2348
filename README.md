@@ -17,6 +17,12 @@
 #### 🎯 Stats
 <br/><br/>
 <br/><br/>
+
+
+#### Contact & Channel
+- Email
+- Blog 
+
 <!--
 **log2348/log2348** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
