@@ -1,6 +1,6 @@
 ## 지현 Jihyeon Park
 #### 🌱 Introduce Myself
-- 백엔드 신입 개발자 박지현입니다.
+- 
 - 
 -
 <br/><br/>
