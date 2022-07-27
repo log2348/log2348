@@ -15,9 +15,6 @@
 
 <br/><br/>
 
-#### 📚 Project
-
-
 <br/><br/>
 #### 🎯 Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=log2348&layout=compact)](https://github.com/log2348/github-readme-stats)
