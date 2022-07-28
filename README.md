@@ -4,7 +4,7 @@
 
 <br/>
 
-### 🌱 About me
+### 🌱 Introduce myself
 
 
 > 꾸준함을 잃지 않는 개발자
@@ -29,8 +29,8 @@
 <br/>
 
 ### Contact & Channel
-#### [💌 pjh4794@naver.com](pjh4794@naver.com)
-#### [📝 https://blog.naver.com/pjh4794](https://blog.naver.com/pjh4794)
+##### 💌 Email [pjh4794@naver.com](pjh4794@naver.com)
+##### 📝 Blog [https://blog.naver.com/pjh4794](https://blog.naver.com/pjh4794)
 
 <br/>
 
