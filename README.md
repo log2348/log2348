@@ -1,7 +1,5 @@
 ## 지현 Jihyeon Park
 
-### [👩‍💻Notion 포트폴리오](https://www.notion.so/Jihyeon-Park-7bd1fdaf593248ff85afeca8b250eddb)
-
 <br/>
 
 ### 🌱 Introduce myself
