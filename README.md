@@ -1,8 +1,30 @@
-## 지현 Jihyeon Park
+<div align="center">
 
-<br/>
+## 지현 Ji-Hyeon Park
 
-### 🔨 Tech Stack
+</div>
+
+<br>
+
+<div align = "center">
+
+## 🔗 Project Link
+
+**[Project-Comma](https://github.com/log2348/Project-Comma)**
+
+**[Project-MOVIEWIKI](https://github.com/log2348/Project-MOVIEWIKI)**
+
+**[AndroidProject-MelonTube](https://github.com/log2348/AndroidProject-MelonTube)**
+
+**[Project-Minigame](https://github.com/log2348/Project-Minigame)**
+
+</div>
+<br>
+
+
+<div align = "center">
+
+## 📚 Tech Stack
 
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 
@@ -10,15 +32,23 @@
 
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white"> <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
 
-<br/>
+</div>
+<br>
 
-### 🎯 Stats
+<div align = "center">
+
+## 🎯 Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=log2348&layout=compact)](https://github.com/log2348/github-readme-stats)
 
-<br/>
+</div>
 
-### 💌 Contact & Channel
-- Email [pjh4794@naver.com](pjh4794@naver.com)
-- Blog [https://blog.naver.com/pjh4794](https://blog.naver.com/pjh4794)
+<br>
 
-<br/>
+<div align = "center">
+
+## 💌 Contact & Channel
+**Email [pjh4794@naver.com](pjh4794@naver.com)** <br>
+**Blog [https://blog.naver.com/pjh4794](https://blog.naver.com/pjh4794)**
+</div>
+
+<br>
