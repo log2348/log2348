@@ -2,15 +2,6 @@
 
 <br/>
 
-### 🌱 Introduce myself
-
-
-> 꾸준함을 잃지 않는 개발자
-
-> 사용자를 먼저 생각하는 개발자
-
-<br/>
-
 ### 🔨 Tech Stack
 
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
@@ -31,18 +22,3 @@
 - Blog [https://blog.naver.com/pjh4794](https://blog.naver.com/pjh4794)
 
 <br/>
-
-<!--
-**log2348/log2348** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
