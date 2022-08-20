@@ -18,6 +18,8 @@
 
 **[Project-Minigame](https://github.com/log2348/Project-Minigame)**
 
+**[Project-SmallTalk](https://github.com/log2348/socket_project)**
+
 </div>
 <br>
 
