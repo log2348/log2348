@@ -2,6 +2,8 @@
 
 ## 지현 Ji-Hyeon Park
 
+#### [👩‍💻 Notion 이력서](https://www.notion.so/Jihyeon-Park-7bd1fdaf593248ff85afeca8b250eddb)
+
 </div>
 
 <br>
