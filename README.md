@@ -1,6 +1,8 @@
 <div align="center">
 
-## 지현 Ji-Hyeon Park
+### 🐥 Ji-Hyeon Park 🐣
+
+<hr>
 
 #### [👩‍💻 Notion 이력서](https://www.notion.so/Jihyeon-Park-7bd1fdaf593248ff85afeca8b250eddb)
 
