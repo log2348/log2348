@@ -1,6 +1,6 @@
 <div align="center">
 
-### 🐥 Ji-Hyeon Park 🐣
+### 🐥 Ji-hyeon Park 🐣
 
 <hr>
 
