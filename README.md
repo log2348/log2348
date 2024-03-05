@@ -51,6 +51,6 @@
 
 ## 💌 Contact & Channel
 **Email [pjh4794@naver.com](pjh4794@naver.com)** <br>
-**Blog [https://blog.naver.com/pjh4794](https://blog.naver.com/pjh4794)**
+**Blog [https://b-lab.tistory.com/](https://b-lab.tistory.com/)**
 </div>
 
